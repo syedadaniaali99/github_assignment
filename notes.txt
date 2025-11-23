@@ -1,1 +1,2 @@
 "My important notes for the assignment." 
+"Completing task 14 and 15 by editing this file in the cloned repo."
